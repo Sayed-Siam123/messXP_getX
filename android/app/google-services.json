@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "748266753284",
+    "firebase_url": "https://messxp-f5785-default-rtdb.firebaseio.com",
+    "project_id": "messxp-f5785",
+    "storage_bucket": "messxp-f5785.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748266753284:android:7ca5641f509f8d2bc3d451",
+        "android_client_info": {
+          "package_name": "com.arafat.messXP_getX"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748266753284-aeipokl5qe0k8ddnpguqvn5gf9vs21p0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arafat.messXP_getX",
+            "certificate_hash": "49680866e52f48933aaa75dc8dec0c66f2006958"
+          }
+        },
+        {
+          "client_id": "748266753284-0i0uv8g3l5gj1q1646hbcgleodef3oas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlcVe4kREZrRbx89LfS_M0AncwUyRGZVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748266753284-0i0uv8g3l5gj1q1646hbcgleodef3oas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
